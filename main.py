@@ -1,7 +1,7 @@
 
 # drukowanie na konsole wartosci
-print(5 + 7)
-print(10 - 7)
+# print(5 + 7)
+# print(10 - 7)
 print(12 / 7)
 print(4 * 3)
 print(13 % 3)
